@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "adega",
+    "slug": "adega",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/bigode.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/bigode.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/bigode.jpg",
+        "backgroundColor": "#000000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/bigode.jpg"
+    }
+  }
+}
