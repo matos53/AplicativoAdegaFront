@@ -23,6 +23,17 @@
     },
     "web": {
       "favicon": "./assets/bigode.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "327d9e18-51c5-486b-b160-60fc7cb4f84f"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/327d9e18-51c5-486b-b160-60fc7cb4f84f"
     }
   }
 }
